@@ -8,4 +8,4 @@ The algorithm is implemented with basic benchmarking functions for testing. Mult
 need fine-tuning according to the problem. The algorithm is being restarted when stuck in local minima 
 or when is being converged prematurely.
 
-The implementation is provided under a BSD-3-clause licence. 
+The implementation is provided under a BSD-3-clause license. 
